@@ -13,12 +13,12 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/escrow-tf/go-steam/v3/cryptoutil"
-	"github.com/escrow-tf/go-steam/v3/netutil"
-	"github.com/escrow-tf/go-steam/v3/protocol"
-	"github.com/escrow-tf/go-steam/v3/protocol/protobuf"
-	"github.com/escrow-tf/go-steam/v3/protocol/steamlang"
-	"github.com/escrow-tf/go-steam/v3/steamid"
+	"github.com/escrow-tf/go-steam/cryptoutil"
+	"github.com/escrow-tf/go-steam/netutil"
+	"github.com/escrow-tf/go-steam/protocol"
+	"github.com/escrow-tf/go-steam/protocol/protobuf"
+	"github.com/escrow-tf/go-steam/protocol/steamlang"
+	"github.com/escrow-tf/go-steam/steamid"
 )
 
 // Represents a client to the Steam network.

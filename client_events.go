@@ -1,7 +1,7 @@
 package steam
 
 import (
-	"github.com/escrow-tf/go-steam/v3/netutil"
+	"github.com/escrow-tf/go-steam/netutil"
 )
 
 // When this event is emitted by the Client, the connection is automatically closed.

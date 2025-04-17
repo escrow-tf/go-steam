@@ -23,9 +23,9 @@ import (
 	"time"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/escrow-tf/go-steam/v3"
-	"github.com/escrow-tf/go-steam/v3/netutil"
-	"github.com/escrow-tf/go-steam/v3/protocol"
+	"github.com/escrow-tf/go-steam"
+	"github.com/escrow-tf/go-steam/netutil"
+	"github.com/escrow-tf/go-steam/protocol"
 )
 
 // Base structure holding common data among GsBot modules.

@@ -4,8 +4,8 @@ import (
 	"errors"
 	"sync"
 
-	"github.com/escrow-tf/go-steam/v3/protocol/steamlang"
-	"github.com/escrow-tf/go-steam/v3/steamid"
+	"github.com/escrow-tf/go-steam/protocol/steamlang"
+	"github.com/escrow-tf/go-steam/steamid"
 )
 
 // Friends list is a thread safe map

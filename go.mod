@@ -1,4 +1,4 @@
-module github.com/escrow-tf/go-steam/v3
+module github.com/escrow-tf/go-steam
 
 go 1.16
 

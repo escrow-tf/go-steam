@@ -9,8 +9,8 @@ import (
 	"net"
 	"sync"
 
-	"github.com/escrow-tf/go-steam/v3/cryptoutil"
-	"github.com/escrow-tf/go-steam/v3/protocol"
+	"github.com/escrow-tf/go-steam/cryptoutil"
+	"github.com/escrow-tf/go-steam/protocol"
 )
 
 type connection interface {

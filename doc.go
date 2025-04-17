@@ -16,8 +16,8 @@ You can also find a running example in the `gsbot` package.
 		"io/ioutil"
 		"log"
 
-		"github.com/escrow-tf/go-steam/v3"
-		"github.com/escrow-tf/go-steam/v3/protocol/steamlang"
+		"github.com/escrow-tf/go-steam"
+		"github.com/escrow-tf/go-steam/protocol/steamlang"
 	)
 
 	func main() {

@@ -11,10 +11,10 @@ import (
 	"strconv"
 	"sync/atomic"
 
-	"github.com/escrow-tf/go-steam/v3/cryptoutil"
-	"github.com/escrow-tf/go-steam/v3/protocol"
-	"github.com/escrow-tf/go-steam/v3/protocol/protobuf"
-	"github.com/escrow-tf/go-steam/v3/protocol/steamlang"
+	"github.com/escrow-tf/go-steam/cryptoutil"
+	"github.com/escrow-tf/go-steam/protocol"
+	"github.com/escrow-tf/go-steam/protocol/protobuf"
+	"github.com/escrow-tf/go-steam/protocol/steamlang"
 	"google.golang.org/protobuf/proto"
 )
 

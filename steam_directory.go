@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/escrow-tf/go-steam/v3/netutil"
+	"github.com/escrow-tf/go-steam/netutil"
 )
 
 // Load initial server list from Steam Directory Web API.

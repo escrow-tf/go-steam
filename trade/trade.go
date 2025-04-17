@@ -4,8 +4,8 @@ import (
 	"errors"
 	"time"
 
-	"github.com/escrow-tf/go-steam/v3/steamid"
-	"github.com/escrow-tf/go-steam/v3/trade/tradeapi"
+	"github.com/escrow-tf/go-steam/steamid"
+	"github.com/escrow-tf/go-steam/trade/tradeapi"
 )
 
 const pollTimeout = time.Second

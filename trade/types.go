@@ -1,7 +1,7 @@
 package trade
 
 import (
-	"github.com/escrow-tf/go-steam/v3/trade/tradeapi"
+	"github.com/escrow-tf/go-steam/trade/tradeapi"
 )
 
 type TradeEndedEvent struct {

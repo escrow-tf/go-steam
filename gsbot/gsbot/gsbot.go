@@ -18,9 +18,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/escrow-tf/go-steam/v3"
-	"github.com/escrow-tf/go-steam/v3/gsbot"
-	"github.com/escrow-tf/go-steam/v3/protocol/steamlang"
+	"github.com/escrow-tf/go-steam"
+	"github.com/escrow-tf/go-steam/gsbot"
+	"github.com/escrow-tf/go-steam/protocol/steamlang"
 )
 
 const usage string = "usage: gsbot [username] [-p password] [-a authcode] [-t twofactorcode] [-l loginkey]"

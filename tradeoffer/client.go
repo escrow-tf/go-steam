@@ -8,10 +8,10 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/escrow-tf/go-steam/v3/community"
-	"github.com/escrow-tf/go-steam/v3/economy/inventory"
-	"github.com/escrow-tf/go-steam/v3/netutil"
-	"github.com/escrow-tf/go-steam/v3/steamid"
+	"github.com/escrow-tf/go-steam/community"
+	"github.com/escrow-tf/go-steam/economy/inventory"
+	"github.com/escrow-tf/go-steam/netutil"
+	"github.com/escrow-tf/go-steam/steamid"
 )
 
 type APIKey string

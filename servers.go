@@ -4,7 +4,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/escrow-tf/go-steam/v3/netutil"
+	"github.com/escrow-tf/go-steam/netutil"
 )
 
 // CMServers contains a list of worlwide servers

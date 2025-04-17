@@ -1,8 +1,8 @@
 package steam
 
 import (
-	"github.com/escrow-tf/go-steam/v3/protocol/steamlang"
-	"github.com/escrow-tf/go-steam/v3/steamid"
+	"github.com/escrow-tf/go-steam/protocol/steamlang"
+	"github.com/escrow-tf/go-steam/steamid"
 )
 
 type LoggedOnEvent struct {

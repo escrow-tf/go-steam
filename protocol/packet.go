@@ -5,7 +5,7 @@ import (
 	"encoding/binary"
 	"fmt"
 
-	"github.com/escrow-tf/go-steam/v3/protocol/steamlang"
+	"github.com/escrow-tf/go-steam/protocol/steamlang"
 	"google.golang.org/protobuf/proto"
 )
 

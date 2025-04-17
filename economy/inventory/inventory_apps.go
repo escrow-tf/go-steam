@@ -8,7 +8,7 @@ import (
 	"regexp"
 	"strconv"
 
-	"github.com/escrow-tf/go-steam/v3/steamid"
+	"github.com/escrow-tf/go-steam/steamid"
 )
 
 type InventoryApps map[string]*InventoryApp

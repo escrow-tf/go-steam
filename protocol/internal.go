@@ -6,7 +6,7 @@ import (
 	"math"
 	"strconv"
 
-	"github.com/escrow-tf/go-steam/v3/protocol/steamlang"
+	"github.com/escrow-tf/go-steam/protocol/steamlang"
 )
 
 type JobId uint64

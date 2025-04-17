@@ -7,12 +7,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/escrow-tf/go-steam/v3/protocol"
-	"github.com/escrow-tf/go-steam/v3/protocol/protobuf"
-	"github.com/escrow-tf/go-steam/v3/protocol/steamlang"
-	"github.com/escrow-tf/go-steam/v3/rwu"
-	"github.com/escrow-tf/go-steam/v3/socialcache"
-	"github.com/escrow-tf/go-steam/v3/steamid"
+	"github.com/escrow-tf/go-steam/protocol"
+	"github.com/escrow-tf/go-steam/protocol/protobuf"
+	"github.com/escrow-tf/go-steam/protocol/steamlang"
+	"github.com/escrow-tf/go-steam/rwu"
+	"github.com/escrow-tf/go-steam/socialcache"
+	"github.com/escrow-tf/go-steam/steamid"
 	"google.golang.org/protobuf/proto"
 )
 
